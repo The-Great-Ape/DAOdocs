@@ -1,7 +1,7 @@
 ---
 description: >-
   The Grape community has a treasury used for strategic community growth
-  opportunities and will back the value of the $GRAPE token
+  opportunities and will back the value of the $GRAPE token. The treasury is managed by the Treasury subDAO
 ---
 
 # Community Treasury
